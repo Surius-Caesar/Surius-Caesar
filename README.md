@@ -10,7 +10,7 @@
 
 ### 👋 About Me
 
-- 🎓 Undergraduate in Cryptology at **Nankai University**
+- 🎓 Undergraduate in Cryptology at **Nankai University**,with interests in mathmatics,hardware and security algorithms.
 - 📚 Familiar with Chinese and world history, Chinese geography, especially ancient Chinese history before the Han dynasty
 - 📫 Reach me: see contact info below
 
@@ -28,27 +28,14 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surius-Caesar&show_icons=true&theme=dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surius-Caesar&layout=compact&theme=dark&hide_border=true" height="160" />
-</p>
-
----
-
-### 📫 Contact
-
-- 📧 [2413993@mail.nankai.edu.cn](mailto:2413993@mail.nankai.edu.cn)
-- 📧 [15357706808@163.com](mailto:15357706808@163.com)
 
 ### 📫 Contact
 
 <p align="left">
   <a href="mailto:2413993@mail.nankai.edu.cn">
-    <img src="https://img.shields.io/badge/Email-2413993@mail.nankai.edu.cn-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=Email&message=2413993@mail.nankai.edu.cn&color=D14836&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:15357706808@163.com">
-    <img src="https://img.shields.io/badge/Email-15357706808@163.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/static/v1?label=Email&message=15357706808@163.com&color=D14836&logo=gmail&logoColor=white" />
   </a>
 </p>
