@@ -21,7 +21,7 @@
 - 🥇 **2024–2025 Nankai University Gongneng Scholarship (公能奖学金), University-Level First Class**
 - 🥈 **2024–2025 Nankai University Merit Student (三好学生)**
 - 🥉 **2025 CMC Tianjin Division, Non-Math A, First Prize**
-- 🏅 **2025 Tianjin Ordinary Higher Education Institutions Mathematics Competition (天津市普通高校大学数学竞赛), First Prize**
+- 🏅 **2025 Tianjin Ordinary Higher Education Institutions Mathematics Competition (天津市普通高校大学数学竞赛), Second Prize**
 - 🏅 **2025 North China Five Provinces (Municipalities and Autonomous Regions) College Students' Humanities Knowledge Competition (华北五省大学生人文知识竞赛), Tianjin Division First Prize, Final Second Prize**
 - 🏅 **2026 The Challenge Cup (挑战杯), Tianjin Division First Prize**
 - 🏅 **2025–2026 Huameng Scholarship (华萌奖学金)**
